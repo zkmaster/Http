@@ -1,6 +1,8 @@
 <?php
 
 
-echo "hello Https ! \n";
+echo "hello Https !";
 
-echo __DIR__;
+
+
+?>
