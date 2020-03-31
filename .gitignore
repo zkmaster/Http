@@ -1,5 +1,5 @@
 #gitignore
-
+.ieda/
 .env
 vendor/
 composer.lock
