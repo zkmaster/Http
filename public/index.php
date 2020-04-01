@@ -1,5 +1,6 @@
 <?php
-
+include_once __DIR__ . "/../core/auth.php";
+phpinfo();
 
 echo "hello Https ! <br/>";
 
